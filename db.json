@@ -1,4 +1,11 @@
 {
-    "ApplicationID": "185764656",
-    "ReferralIndicator":"1"
+  "posts": [
+    {
+       "ApplicationID": "185764656",
+       "ReferralIndicator":"1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
