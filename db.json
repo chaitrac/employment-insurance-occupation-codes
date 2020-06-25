@@ -1,11 +1,32 @@
 {
-  "posts": [
+  "posts": 
     {
-       "id":1,
-       "ApplicationID": "185764656",
-       "SessionId":"12345"   
-    }
-  ],
+      "RESULTS": {
+        "RETURNED": 363,
+        "CONTEXT_E": "Results",
+        "CONTEXT_F": "Résultats",
+        "UNIT_GROUP": [
+          {
+            "UNIT_CODE": 4413,
+            "CONCORDANCE_NUMBER": [
+              {
+                "NUMBER": 1,
+                "ENGLISH": {
+                  "RECORD_ID": 201117187,
+                  "CONCORDANCE_TITLE": "teacher's helper",
+                  "EXAMPLE_IND": 0
+                },
+                "FRENCH": {
+                  "RECORD_ID": 201187424,
+                  "CONCORDANCE_TITLE": "aide-enseignant/aide-enseignante",
+                  "EXAMPLE_IND": 0
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
   "profile": {
     "name": "typicode"
   }
